@@ -1,4 +1,15 @@
-### Hi there 👋
+#### Metadata
+
+An engineer with over a decade of experience working as an Engineering Technologist in IoT metering systems currently transitioning to a career as a data engineer.
+
+Recently completed a data engineering bootcamp gaining a comprehensive understanding of the tools and technologies used to design, build, and maintain data pipelines and storage systems. 
+
+#### Tech stack 
+
+GitHub, Postman, Kafka, PostgreSQL, Docker, Preset, Git, AWS, ClickHouse, Airbyte, DBT, Airflow, Confluent, Databricks, Python, Snowflake, Pandas, Power BI 
+
+#### Socials 
+- [LinkedIn](https://www.linkedin.com/in/lukeahuntley/)
 
 <!--
 **lukehuntley/lukehuntley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
