@@ -1,14 +1,15 @@
-#### Metadata
+## :memo: Metadata 
+
 
 An engineer with over a decade of experience working as an Engineering Technologist in IoT metering systems currently transitioning to a career as a data engineer.
 
 Recently completed a data engineering bootcamp gaining a comprehensive understanding of the tools and technologies used to design, build, and maintain data pipelines and storage systems. 
 
-#### Tech stack 
+## :wrench:Tech stack 
 
 GitHub, Postman, Kafka, PostgreSQL, Docker, Preset, Git, AWS, ClickHouse, Airbyte, DBT, Airflow, Confluent, Databricks, Python, Snowflake, Pandas, Power BI 
 
-#### Socials 
+## :phone: Socials 
 - [LinkedIn](https://www.linkedin.com/in/lukeahuntley/)
 
 <!--
