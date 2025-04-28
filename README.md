@@ -1,9 +1,6 @@
 ## :memo: metadata 
 
-
-An engineer with over a decade of experience working as an Engineering Technologist in IoT metering systems currently transitioning to a career as a data engineer.
-
-Recently completed a data engineering bootcamp gaining a comprehensive understanding of the tools and technologies used to design, build, and maintain data pipelines and storage systems. 
+From electrical engineering to data engineering, I am an engineer who brings problem-solving, analytical thinking, and a drive for continuous improvement to deliver robust solutions. With these traits and a strong foundation in modern data practices, I design, develop, and maintain data solutions. I enjoy working in dynamic environments where I can leverage diverse cloud tools, continuously learn, and collaborate with colleagues. When I’m not working, I enjoy attending data related Meetups, bashing around with radio-control cars and playing real time strategy games.
 
 ## :wrench: tech stack 
 
