@@ -4,7 +4,8 @@ From electrical engineering to data engineering, I am an engineer who brings pro
 
 ## :wrench: tech stack 
 
-- Python, Snowflake, Databricks, Airbyte, Airflow, dbt, Docker, SQL (MySQL, TSQL, Postgres), AWS (RDS, EC2, ECS, S3), Azure (Data Factory, Function App, Logic App, KeyVault, Data Lake, SQL Database, DevOps, Synapse Analytics)
+- Python, Snowflake, Databricks, Airbyte, Airflow, dbt, Docker, SQL (MySQL, TSQL, Postgres)
+- AWS (RDS, EC2, ECS, S3), Azure (Data Factory, Function App, Logic App, KeyVault, Data Lake, SQL Database, DevOps, Synapse Analytics)
 - Power BI, Power Automate
 - Microsoft O365, SharePoint, Excel VBA
 - Trello, Jira
